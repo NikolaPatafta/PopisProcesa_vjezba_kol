@@ -1,0 +1,7 @@
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\bin\Debug\PopisProcesa_vjeb_kol.exe.config
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\bin\Debug\PopisProcesa_vjeb_kol.exe
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\bin\Debug\PopisProcesa_vjeb_kol.pdb
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\obj\Debug\PopisProcesa_vjeb_kol.csprojAssemblyReference.cache
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\obj\Debug\PopisProcesa_vjeb_kol.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\obj\Debug\PopisProcesa_vjeb_kol.exe
+C:\Users\Nikola Patafta\source\repos\PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol\obj\Debug\PopisProcesa_vjeb_kol.pdb

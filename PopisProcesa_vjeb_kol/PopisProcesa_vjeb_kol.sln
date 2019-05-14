@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopisProcesa_vjeb_kol", "PopisProcesa_vjeb_kol\PopisProcesa_vjeb_kol.csproj", "{201BB9A6-430D-48F2-A510-74E2EAE2813D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201BB9A6-430D-48F2-A510-74E2EAE2813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201BB9A6-430D-48F2-A510-74E2EAE2813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201BB9A6-430D-48F2-A510-74E2EAE2813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201BB9A6-430D-48F2-A510-74E2EAE2813D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD2BEBF-CB19-4F68-88A2-D82DF0626F7E}
+	EndGlobalSection
+EndGlobal
